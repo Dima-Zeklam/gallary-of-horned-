@@ -18,15 +18,15 @@ class HornedBeasts extends React.Component {
 
     return (
       <>
-        <Card style={{ width: '18rem' }}>
+        <Card style={{ width: '18rem', display:'inline-block', margin:'20px', textAlign:'center'}}>
           <Card.Img variant="top" src={this.props.img} />
           <Card.Body>
             <Card.Title>{this.props.title}</Card.Title>
             <Card.Text>
-              {this.props.description}
+              {this.props.description} 🦄
             </Card.Text>
-            <p>Number of Votes {this.state.counter} </p>
-            <Button onClick={this.increaseCounter} variant="primary">Click </Button>
+            <p>Lovers {this.state.counter} 💗 </p>
+            <Button onClick={this.increaseCounter} variant="primary">love it </Button>
           </Card.Body>
         </Card>
       </>);
