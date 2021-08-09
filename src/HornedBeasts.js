@@ -29,7 +29,7 @@ class HornedBeasts extends React.Component {
       return( 
           <div>
                 
-                   {elements.map((value) => {
+                   {elements.map((value,index) => {
            return (<div><h2 id={value.horns}>{value.title}</h2>
             <img src={value.image_url} title={value.title} alt={value.horns} width="300"/>
             <p>{value.description}</p>
