@@ -4,6 +4,8 @@ import HornedBeasts from './HornedBeasts';
 
 
 class Main extends React.Component {
+
+
   render() {
     return (
       Data.map((item, index) => {
@@ -15,8 +17,10 @@ class Main extends React.Component {
             description={item.description}
             keyword={item.keyword}
             horns={item.horns}
+            handling = {this.props.handling}
 
           />
+          
         );
       })
 
