@@ -1,3 +1,66 @@
+### Time Estimate
+
+###  class 02
+#### feature 1 :  Bootstrap
+* Estimate of time needed to complete: 1 hour
+
+* Start time: 1:00pm
+
+* Finish time: 2:00pm
+
+* Actual time needed to complete: 1 hour
+
+#### feature 2 :  Display images
+* Estimate of time needed to complete: 30 min
+
+* Start time: 2:30pm
+
+* Finish time: 3:10pm
+
+* Actual time needed to complete: 40 min
+
+### feature 3 : Allow users to vote for their favorite beast
+* Estimate of time needed to complete: 3 hours
+
+* Start time: 3:15pm
+
+* Finish time: 6:15pm
+
+* Actual time needed to complete: 4 hours
+
+###  class 03
+#### feature 1 : Display a Modal
+* Estimate of time needed to complete: 3 hours
+
+* Start time: 2:00am
+
+* Finish time: 8:00pm
+
+* Actual time needed to complete: 6 hours
+
+###  class 04
+
+#### feature 1 :  Filter by Numbers of Horns
+* Estimate of time needed to complete: 3 hours
+
+* Start time: 1:15pm
+
+* Finish time: 5:15pm
+
+* Actual time needed to complete: 4:15
+
+#### feature 2 : Do some CSS 
+* Estimate of time needed to complete: 30 min
+
+* Start time: 5:30 pm
+
+* Finish time: 6:00 pm
+
+* Actual time needed to complete: 30 min
+
+
+#### https://eager-carson-baebbc.netlify.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
